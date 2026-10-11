@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.conf text
+*.conf.dist text
+*.cpp text
+*.h text
+*.md text
+*.sql text
+*.sh text
+
+*.png binary

@@ -57,6 +57,10 @@ Kill XP is only part of running normal content in a raid group. You will probabl
 - `Quests.IgnoreRaid = 1` so raid groups get quest kill credit and quest drops
 - `Instance.IgnoreRaid = 1` if raid groups should enter raid instances without restriction
 
+## Author
+
+[Furbodo](https://github.com/Furbodo)
+
 ## License
 
 GNU AGPL v3. See [LICENSE](LICENSE).
