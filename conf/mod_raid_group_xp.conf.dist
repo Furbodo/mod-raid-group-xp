@@ -1,0 +1,19 @@
+[worldserver]
+
+#
+#   RaidGroupXP.Enable
+#       Give raid-group members the same kill XP share they would get in a
+#       5-player party, in dungeons, raids and the open world.
+#       Battlegrounds and PvP kills are not affected.
+#       Default: 1 (enabled)
+#
+RaidGroupXP.Enable = 1
+
+#
+#   RaidGroupXP.Multiplier
+#       Extra multiplier on the raid-group kill XP share computed above.
+#       1.0 = exactly a 5-player party's share; 1.15 = 15% more.
+#       Read at startup (and on .reload config).
+#       Default: 1.15
+#
+RaidGroupXP.Multiplier = 1.15

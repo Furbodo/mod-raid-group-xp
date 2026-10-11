@@ -1,0 +1,10 @@
+*.bak
+*.orig
+*.rej
+*~
+.DS_Store
+.vscode/
+.idea/
+build/
+*.conf
+!*.conf.dist
